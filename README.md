@@ -1,3 +1,6 @@
+## Used Car trading
+중고차 매매 Database 관리 시스템(Management System)입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
